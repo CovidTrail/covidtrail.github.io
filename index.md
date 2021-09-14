@@ -1,7 +1,15 @@
 ## Table of contents
 
+* [Team Members](#team-members)
 * [Overview](#overview)
 * [User Guide](#user-guide)
+
+### Team Members
+* Jake Imanaka
+* Clyde James Felix
+* Patrick McCrindle
+* Tsz Wong
+* Justin Wong
 
 ## Overview
 
@@ -34,24 +42,25 @@ Clicking on the REGISTER HERE button on the landing page or clicking the top rig
 Clicking on the SIGN IN button on the landing page or clicking the top right icon and choosing Login leads you to the Login page.
 ![](images/login.PNG)
 
+### Landing Page after Logging In
+
+After logging in, users are taken back to the landing page, except the SIGN IN and REGISTER button is replaced with the user's covid status.
+![](images/landingLoggedIn.PNG)
+
 ### Check in Page
 
 The checkin page displays a list of questions and symptoms for users to check. 
 ![](images/checkin.PNG)
 
 Users can update their covid status and see whether they can visit or stay home.
+
 ![](images/approved.PNG)
+
 ![](images/declined.PNG)
 
 ### Profile Page
 
 Users can access their profile by clicking the top right icon in the header.
 There, they can see and update their name and email.
-![](images/profile.PNG)
 
-### Team Members
-* Jake Imanaka
-* Clyde James Felix
-* Patrick McCrindle
-* Tsz Wong
-* Justin Wong
+![](images/profile.PNG)
