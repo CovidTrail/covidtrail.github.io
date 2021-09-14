@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+  
+title: CovidTrail
+description: Stop the trail with you!
+theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/CovidTrail/covidtrail.github.io
+gems:
+  - jekyll-mentions
