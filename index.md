@@ -15,8 +15,24 @@ It is designed after the LumiSight UH application:
 * Users will eventually be able to upload their vaccination cards
 
 Our deployed website can be found on:
-Our Github page can be found on: [Github](https://github.com/CovidTrail/covidtrail)
+
+Our development can be found on: [Github](https://github.com/CovidTrail/covidtrail)
 
 ## User Guide
 
 Our user guide will help you walkthrough Covid Trail's user interface and how to do your daily check ins.
+
+### Landing Page
+
+### Sign Up and Login Page
+
+### Check in Page
+
+### Profile Page
+
+### Team Members
+* Jake Imanaka
+* Clyde James Felix
+* Patrick McCrindle
+* Tsz Wong
+* Justin Wong
