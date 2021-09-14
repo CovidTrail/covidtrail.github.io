@@ -49,13 +49,12 @@ After logging in, users are taken back to the landing page, except the SIGN IN a
 
 ### Check in Page
 
-The checkin page displays a list of questions and symptoms for users to check. 
-![](images/checkin.PNG)
+The checkin page displays a list of questions and symptoms for users to check.
+![](images/checkIn.PNG)
 
 Users can update their covid status and see whether they can visit or stay home.
 
 ![](images/approved.PNG)
-
 ![](images/declined.PNG)
 
 ### Profile Page
