@@ -1,7 +1,7 @@
   
 title: CovidTrail
 description: Stop the trail with you!
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman 
 github:
   is_project_page: true
   repository_url: https://github.com/CovidTrail/covidtrail.github.io
