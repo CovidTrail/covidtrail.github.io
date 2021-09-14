@@ -1,3 +1,5 @@
+## CovidTrail
+
 ### Table of contents
 
 * [Team Members](#team-members)
