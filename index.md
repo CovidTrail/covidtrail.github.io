@@ -24,11 +24,31 @@ Our user guide will help you walkthrough Covid Trail's user interface and how to
 
 ### Landing Page
 
+When users visit our site, they are presented with what our application does and how to sign up.
+![](images/landing.PNG)
+
 ### Sign Up and Login Page
+
+Clicking on the REGISTER HERE button on the landing page or clicking the top right icon and choosing register leads you to the register page.
+![](images/register.PNG)
+
+Clicking on the SIGN IN button on the landing page or clicking the top right icon and choosing Login leads you to the Login page.
+![](images/login.PNG)
 
 ### Check in Page
 
+The checkin page displays a list of questions and symptoms for users to check. 
+![](images/checkin.PNG)
+
+Users can update their covid status and see whether they can visit or stay home.
+![](images/approved.PNG)
+![](images/declined.PNG)
+
 ### Profile Page
+
+Users can access their profile by clicking the top right icon in the header.
+There, they can see and update their name and email.
+![](images/profile.PNG)
 
 ### Team Members
 * Jake Imanaka
