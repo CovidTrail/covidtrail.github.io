@@ -23,7 +23,7 @@ It is designed after the LumiSight UH application:
 * Users can check in regarding their symptoms, and update it accordingly.
 * Users will eventually be able to upload their vaccination cards
 
-Our deployed website can be found on: https://covidtrail.meteorapp.com/
+Our deployed website can be found on: [CovidTrail](https://covidtrail.meteorapp.com)
 
 Our development can be found on: [Github](https://github.com/CovidTrail/covidtrail)
 
