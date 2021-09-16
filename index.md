@@ -62,6 +62,6 @@ Users can update their covid status and see whether they can visit or stay home.
 ### Profile Page
 
 Users can access their profile by clicking the top right icon in the header.
-There, they can see and update their name and email.
+Eventually users will be able to update their name and email.
 
 ![](images/profile.PNG)
