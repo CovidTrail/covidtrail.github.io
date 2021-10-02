@@ -15,7 +15,7 @@
 
 ## Overview
 
-Covid Trail is a web application for UH students, faculty, and staff to check in on their symptoms for Covid-19.
+Covid Trail is a web application for UH students, faculty, and staff to check in on their symptoms for COVID-19.
 
 It is designed after the LumiSight UH application:
 
@@ -46,7 +46,7 @@ Clicking on the SIGN IN button on the landing page or clicking the top right ico
 
 ### Landing Page after Logging In
 
-After logging in, users are taken back to the landing page, except the SIGN IN and REGISTER button is replaced with the user's covid status.
+After logging in, users are taken back to the landing page, except the SIGN IN and REGISTER button is replaced with the user's COVID-19 status.
 ![](images/landingLoggedIn.PNG)
 
 ### Check in Page
@@ -54,7 +54,7 @@ After logging in, users are taken back to the landing page, except the SIGN IN a
 The checkin page displays a list of questions and symptoms for users to check.
 ![](images/checkIn.PNG)
 
-Users can update their covid status and see whether they can visit or stay home.
+Users can update their COVID-19 status and see whether they can visit or stay home.
 
 ![](images/approved.PNG)
 ![](images/declined.PNG)
@@ -65,3 +65,26 @@ Users can access their profile by clicking the top right icon in the header.
 Eventually users will be able to update their name and email.
 
 ![](images/profile.PNG)
+
+### Submit Vaccination Information
+
+This page allows users to submit all pertinent information about their current vaccination status. Begin by selecting the type of the vaccine that you have received. If you only have one shot type then you are only shown the fields for one-shots worth of information.
+
+![](images/moderna.PNG)
+
+Additionally, if you only have one-shots worth of information to enter for a two-shot variant then it will display N/A until you added in the additional required information.
+
+![](images/johnson_and_johnson.PNG)
+
+### Vaccination Card
+
+This page will display all information from the vaccination submission page. If you have not entered vaccination information you instead will be shown a button that will take you to the Submit Vaccination page. If you have only received one shot or only have a one shot variant then the second shot information will display N/A.
+
+![](images/vax_card.PNG)
+
+
+
+
+
+
+
