@@ -72,7 +72,7 @@ This page allows users to submit all pertinent information about their current v
 
 ![](images/moderna.PNG)
 
-Additionally, if you only have one-shots worth of information to enter for a two-shot variant then it will display N/A until you added in the additional required information.
+Additionally, if you only have a one shot variant you will only be shown the first shot information fields.
 
 ![](images/johnson_and_johnson.PNG)
 
