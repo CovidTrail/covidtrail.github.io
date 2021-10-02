@@ -80,8 +80,8 @@ Additionally, if you only have a one shot variant you will only be shown the fir
 
 This page will display all information from the vaccination submission page. If you have not entered vaccination information you instead will be shown a button that will take you to the Submit Vaccination page. If you have only received one shot or only have a one shot variant then the second shot information will display N/A.
 
-![](images/vax_card.PNG)
 
+![](images/vax_card_updated.PNG)
 
 
 
