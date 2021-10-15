@@ -76,13 +76,19 @@ This page allows users to submit all pertinent information about their current v
 
 ![](images/moderna.PNG)
 
+Upload your vaccination card by dragging and dropping your file in the popup widget.
+
+
+
 Additionally, if you only have a one shot variant you will only be shown the first shot information fields.
 
 ![](images/johnson_and_johnson.PNG)
 
+
+
 ### Vaccination Card
 
-This page will display all information from the vaccination submission page. If you have not entered vaccination information you instead will be shown a button that will take you to the Submit Vaccination page. If you have only received one shot or only have a one shot variant then the second shot information will display N/A.
+This page will display all information from the vaccination submission page. If you have not entered vaccination information you instead will be shown a button that will take you to the Submit Vaccination page. If you have only received one shot or only have a one shot variant then the second shot information will display N/A. You can also view your uploaded vaccination card here. 
 
 
 ![](images/vax_card_updated.PNG)
