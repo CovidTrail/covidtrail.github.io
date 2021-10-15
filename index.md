@@ -21,7 +21,7 @@ It is designed after the LumiSight UH application:
 
 * Users can sign up or login.
 * Users can check in regarding their symptoms, and update it accordingly.
-* Users will eventually be able to upload their vaccination cards
+* Users can upload their vaccination cards and vaccine card information
 
 Our deployed website can be found on: [CovidTrail](https://covidtrail.meteorapp.com)
 
@@ -62,7 +62,11 @@ Users can update their COVID-19 status and see whether they can visit or stay ho
 ### Profile Page
 
 Users can access their profile by clicking the top right icon in the header.
-Eventually users will be able to update their name and email.
+Users who haven't created their profile yet will be taken to this beforehand.
+![](images/newProfile.PNG)
+![](images/newProfile2.PNG)
+
+Users can update their name and email.
 
 ![](images/profile.PNG)
 
