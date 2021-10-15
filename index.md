@@ -78,7 +78,7 @@ This page allows users to submit all pertinent information about their current v
 
 Upload your vaccination card by dragging and dropping your file in the popup widget.
 
-
+![](images/upload.PNG)
 
 Additionally, if you only have a one shot variant you will only be shown the first shot information fields.
 
